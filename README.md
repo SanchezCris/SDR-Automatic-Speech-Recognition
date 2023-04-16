@@ -3,4 +3,8 @@
 
 ### Clonar para GNU Radio 3.8
 
-$ git clone 
+$ git clone https://github.com/SanchezCris/SDR-Automatic-Speech-Recognition.git
+
+## Características
+
+* Admite la tarjeta LimeSDR a través de GNU Radio
