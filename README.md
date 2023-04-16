@@ -4,7 +4,7 @@ FM signal capturing system and voice recognition for the assistance of individua
 
 ### Clone for GNU Radio 3.8
 
-$ git clone https://github.com/SanchezCris/SDR-Automatic-Speech-Recognition.git
+    $ git clone https://github.com/SanchezCris/SDR-Automatic-Speech-Recognition.git
 
 ## Features
 * Supports LimeSDR through GNU Radio.
