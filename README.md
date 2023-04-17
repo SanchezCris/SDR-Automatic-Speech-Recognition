@@ -39,4 +39,6 @@ To view the real-time transcription of the audio signal, a webserver is included
 
 ## Installation
 
-GNU Radio is a dependence
+GNU Radio is a dependence for ``fm_receive_tcp.grc``. I recommend installing it with this [Ubuntu image](https://drive.google.com/file/d/1_R5C6GQj89v0KfQvk3u3zDcED1a0o-Mh/view).
+
+
