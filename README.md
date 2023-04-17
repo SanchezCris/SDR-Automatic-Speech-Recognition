@@ -13,3 +13,7 @@ FM signal capturing system and voice recognition for the assistance of individua
 * Wav to Text
 * Threading
 * Printing in terminal and web graphical interface
+
+## Usage
+
+There is an example GNU Radio Companion (.grc) flowgraph located at SDR-Automatic-Speech-Recognition/app/gnuradio/fm_receive_tcp.grc. To use it, double click on this file.
