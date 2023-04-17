@@ -54,3 +54,7 @@ If using ``webserver_tcp.py``, you'll need to install the following Python packa
     $ pip install scipy
     $ pip install speechrecognition
     $ pip install streamlit
+
+## Recommendations
+
+Perform the tests in an open space, preferably without nearby appliances, with the antenna placed vertically.
