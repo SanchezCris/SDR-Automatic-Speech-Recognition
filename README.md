@@ -7,6 +7,7 @@ FM signal capturing system and voice recognition for the assistance of individua
     $ git clone https://github.com/SanchezCris/SDR-Automatic-Speech-Recognition.git
 
 ## Features
+
 * Supports LimeSDR through GNU Radio.
 * Supports 2 MHz as sample rate and demodulates a signal at 48 KHz
 * FM demodulation of an RF signal.
@@ -20,3 +21,19 @@ There is an example GNU Radio Companion ``(.grc)`` flowgraph located at ``SDR-Au
 
 [![gnu.png](https://i.postimg.cc/7hRyhSCg/gnu.png)](https://postimg.cc/ctfz5gBH)
 
+Example of printing to terminal.
+
+[![terminal.png](https://i.postimg.cc/QCwRhsPm/terminal.png)](https://postimg.cc/kRNjyr7R)
+
+## Webserver
+
+To view the real-time transcription of the audio signal, a webserver is included. The webserver should be started after the GRC flowgraph. Before running the webserver, be sure to install its dependences
+
+
+[![sl.png](https://i.postimg.cc/4xxsPNG7/sl.png)](https://postimg.cc/56ThNJ6b)
+
+
+
+## Installation
+
+GNU Radio is a dependence
