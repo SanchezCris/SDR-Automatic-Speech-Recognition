@@ -27,9 +27,12 @@ Example of printing to terminal.
 
 ## Webserver
 
-To view the real-time transcription of the audio signal, a webserver is included. The webserver should be started after the GRC flowgraph. Before running the webserver, be sure to install its dependences
+To view the real-time transcription of the audio signal, a webserver is included. The webserver should be started after the GRC flowgraph. Before running the webserver, be sure to install its [dependences](https://github.com/SanchezCris/SDR-Automatic-Speech-Recognition/blob/main/README.md#installation).
 
-
+   1. Open a terminal at ``SDR-Automatic-Speech-Recognition/app/``.
+   2. ``$ conda activate sdr``
+   3. ``$ streamlit run webserver_tcp.py [ARGUMENTS]``
+    
 [![sl.png](https://i.postimg.cc/4xxsPNG7/sl.png)](https://postimg.cc/56ThNJ6b)
 
 
