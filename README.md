@@ -25,7 +25,7 @@ Example of GUI GNU Radio.
 
 [![block5.png](https://i.postimg.cc/4x2wMZKF/block5.png)](https://postimg.cc/21v4bs74)
 
-Example of printing to terminal.
+Example of printing on terminal.
 
 [![terminal.png](https://i.postimg.cc/QCwRhsPm/terminal.png)](https://postimg.cc/kRNjyr7R)
 
