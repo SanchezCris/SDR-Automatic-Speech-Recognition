@@ -36,6 +36,8 @@ To view the real-time transcription of the audio signal, a webserver is included
    1. Open a terminal at ``SDR-Automatic-Speech-Recognition/app/``.
    2. ``$ conda activate sdr``
    3. ``$ streamlit run webserver_tcp.py [ARGUMENTS]``
+   4. Open a web browser
+   5. Browse to ``localhost:5000``
     
 [![sl.png](https://i.postimg.cc/4xxsPNG7/sl.png)](https://postimg.cc/56ThNJ6b)
 
