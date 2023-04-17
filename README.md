@@ -21,6 +21,10 @@ There is an example GNU Radio Companion ``(.grc)`` flowgraph located at ``SDR-Au
 
 [![gnu.png](https://i.postimg.cc/7hRyhSCg/gnu.png)](https://postimg.cc/ctfz5gBH)
 
+Example of GUI GNU Radio.
+
+[![block5.png](https://i.postimg.cc/4x2wMZKF/block5.png)](https://postimg.cc/21v4bs74)
+
 Example of printing to terminal.
 
 [![terminal.png](https://i.postimg.cc/QCwRhsPm/terminal.png)](https://postimg.cc/kRNjyr7R)
@@ -34,8 +38,6 @@ To view the real-time transcription of the audio signal, a webserver is included
    3. ``$ streamlit run webserver_tcp.py [ARGUMENTS]``
     
 [![sl.png](https://i.postimg.cc/4xxsPNG7/sl.png)](https://postimg.cc/56ThNJ6b)
-
-
 
 ## Installation
 
