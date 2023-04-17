@@ -41,9 +41,12 @@ To view the real-time transcription of the audio signal, a webserver is included
 
 GNU Radio is a dependence for ``fm_receive_tcp.grc``. I recommend installing it with this [Ubuntu image](https://drive.google.com/file/d/1_R5C6GQj89v0KfQvk3u3zDcED1a0o-Mh/view).
 
-### Source Build
-
-Build ``webserver_tcp.py`` manually from source using the following procedure.
-
 ### Webserver Dependencies
 
+If using ``webserver_tcp.py``, you'll need to install the following Python packages.
+
+    $ conda activate sdr
+    $ pip install numpy 
+    $ pip install scipy
+    $ pip install speechrecognition
+    $ pip install streamlit
