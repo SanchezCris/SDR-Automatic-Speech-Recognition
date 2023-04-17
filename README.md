@@ -8,3 +8,8 @@ FM signal capturing system and voice recognition for the assistance of individua
 
 ## Features
 * Supports LimeSDR through GNU Radio.
+* Supports 2 MHz as sample rate and demodulates a signal at 48 KHz
+* FM demodulation of an RF signal.
+* Wav to Text
+* Threading
+* Printing in terminal and web graphical interface
